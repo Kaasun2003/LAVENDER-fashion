@@ -2,15 +2,15 @@ function Testimonials() {
 
   const testimonials = [
     {
-      name: "Sanduni",
+      name: "Charuni",
       text: "Beautiful clothing and very good quality. Delivery was fast."
     },
     {
-      name: "Nethmi",
+      name: "Kaushani",
       text: "I really loved the dress. The material is comfortable and stylish."
     },
     {
-      name: "Tharushi",
+      name: "Herath",
       text: "Great online shopping experience. I will definitely order again."
     }
   ];
